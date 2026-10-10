@@ -9,6 +9,13 @@ complete solutions and proof references, following the
 For claims, public review and challenges, see the
 [award process](https://github.com/TheJustinSunPrize/awards/blob/main/docs/award-process.md).
 
+The complete mathematical solution and its proof or publication evidence may be
+provided before the Lean formalization or together with it in this PR. The
+mathematical solver and Lean formalization author may be different people.
+**A Lean submission without the mathematical solution and its supporting evidence
+is invalid and will not be accepted.** Link the earlier solution or provide it
+and its evidence below.
+
 We recommend checking open, merged and closed PRs for the same problem and
 contribution type before submitting. Linking related PRs and explaining how your
 contribution differs can help avoid duplicate work. See the
@@ -30,7 +37,8 @@ sections. No Lean repository or self-check is required for those submissions.
 
 For Lean contributions only. Repeat the theorem details for each problem.
 
-- Mathematical solution and review reference (or evidence in this PR for review): REPLACE_WITH_LINKS
+- Complete mathematical solution (provided earlier or in this PR): public proof or publication, relevant theorem/pages, version or date: REPLACE_WITH_LINK_AND_DETAILS
+- Mathematical review reference or current review status: REPLACE_WITH_REFERENCE_OR_STATUS
 - Formal statement location, pinned to a full commit SHA: REPLACE_WITH_LINK
 - Fully qualified target theorem name: REPLACE_WITH_THEOREM_NAME
 - Statement origin (maintainer-approved reference and version, or proposed statement requiring review): REPLACE_WITH_DETAILS
@@ -97,5 +105,6 @@ are optional; see the [self-check guidance](https://github.com/TheJustinSunPrize
 
 - [ ] I changed only the relevant catalog's solver attribution, Lean proof information or supporting sources and supplied the applicable evidence.
 - [ ] The submitted result fully solves the original problem. Any submitted Lean proof is complete at the specified commit, with no `sorry`, `admit` or added unproved assumptions replacing proof steps.
+- [ ] For Lean: I have linked the complete mathematical solution and its proof or publication evidence provided earlier, or supplied them in this PR, and identified the mathematical solver and Lean formalization author separately.
 - [ ] For Lean: I am claiming my own contribution in the original personal or organization repository, with verifiable contribution evidence for an organization repository; the selected commit is in the named branch, and I supplied statement correspondence, reproduction commands and axiom audit results.
 - [ ] This PR contains no Lean source files, archives, binaries, vendored dependencies or private identity/contact/payment information.

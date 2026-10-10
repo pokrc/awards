@@ -24,16 +24,13 @@ solution or Lean formalization. Problem IDs link to the problem bank for public
 contribution attribution and evidence. Publication is not an award or recipient
 identity confirmation; identity checks and written confirmation remain required.
 
-The existing entries retain their recorded public-notice date of **2026-09-19**.
-
 | Problem ID | Solver review start (UTC) | Mathematical solver | Lean review start (UTC) | Lean formalizer |
 | --- | --- | --- | --- | --- |
-| [JSP-000305](../problems/catalog-0301-0400.md#JSP-000305) | | | 2026-09-19 | Wouter van Doorn |
-| [JSP-000371](../problems/catalog-0301-0400.md#JSP-000371) | | | 2026-09-19 | Wouter van Doorn |
-| [JSP-000381](../problems/catalog-0301-0400.md#JSP-000381) | | | 2026-09-19 | Wouter van Doorn |
-| [JSP-000526](../problems/catalog-0501-0600.md#JSP-000526) | 2026-09-19 | Wouter van Doorn; Yanyang Li; Quanyu Tang | 2026-09-19 | Wouter van Doorn |
-| [JSP-000866](../problems/catalog-0801-0900.md#JSP-000866) | 2026-09-19 | Quanyu Tang | | |
-| [JSP-001001](../problems/catalog-1001-1022.md#JSP-001001) | 2026-09-19 | Yanyang Li; Quanyu Tang | | |
+| [JSP-000239](../problems/catalog-0201-0300.md#JSP-000239) | 2026-09-30 | Neel Somani | | |
+| [JSP-000327](../problems/catalog-0301-0400.md#JSP-000327) | 2026-09-30 | Neel Somani | | |
+
+Contributions whose public-review period ran from 2026-09-19 to 2026-10-03
+have moved to the [award register](../awards/README.md#award-register).
 
 When a role is awarded, replace its active candidate cell with a labeled link to
 the award record and retain its completed review dates in that record. The other
